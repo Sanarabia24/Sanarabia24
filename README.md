@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Sana]
+# 👋 Hi, I'm Sana!
 
 🎯 **Data Analyst** | 🧾 Ex-Auditor | 📊 Insight Seeker  
 🚀 Transitioning from audit to data to drive better decisions with numbers.
