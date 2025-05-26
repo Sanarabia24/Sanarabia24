@@ -1,49 +1,66 @@
-<h2 align="left">Hi 👋! My name is Sana and I'm a Data Analyst, from India.</h2>
+# 👋 Hi, I'm [Sana]
 
-###
+🎯 **Data Analyst** | 🧾 Ex-Auditor | 📊 Insight Seeker  
+🚀 Transitioning from audit to data to drive better decisions with numbers.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 🧠 About Me
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+I'm a **former Auditor** stepping confidently into the world of **Data Analytics**. With a solid foundation in data integrity, financial analysis, and risk assessment, I'm now diving into tools like Python, SQL, and Power BI to turn raw data into actionable insights.
 
-###
+Whether it's spotting trends, automating reports, or visualizing KPIs—I'm passionate about translating data into business value.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+---
 
-###
+### 💻 Tools & Technologies
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-###
+---
 
-<br clear="both">
+### 📁 Projects You'll Find Here
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [🔍 Covid 19 Data Exploration](#) | Covid 19 data exploration using SQL
+| [🧹 Nashville Housing data](#) | Cleaned and standardized messy housing dataset usin SQL
 
-###
+> ✅ *More projects coming soon — stay tuned!*
+
+---
+
+### 🔁 Transferable Skills from Audit to Analytics
+
+- Strong analytical and critical thinking  
+- Financial data interpretation  
+- Report automation and process improvement  
+- Data quality assurance  
+- Business communication & storytelling
+
+---
+
+### 📫 Let’s Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sana-khan-1590571b5/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rabiasana24@gmail.com)
+
+---
+
+> *“Audit taught me to trust the numbers. Analytics is teaching me to make them speak.”*
+
+---
+
+### 📊 GitHub Stats (Optional)
+
+```markdown
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanarabia24&show_icons=true&theme=gradient)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanarabia24&layout=compact&theme=gradient)
+yaml
+Copy
+Edit
