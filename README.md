@@ -28,8 +28,8 @@ Whether it's spotting trends, automating reports, or visualizing KPIs—I'm pass
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [🔍 Covid 19 Data Exploration](#) | Covid 19 data exploration using SQL
-| [🧹 Nashville Housing data](#) | Cleaned and standardized messy housing dataset usin SQL
+| [🔍 Covid 19 Data Exploration](#) | Exploring Covid 19 data | SQL |
+| [🧹 Nashville Housing data](#) | Cleaned and standardized messy housing dataset | SQL |
 
 > ✅ *More projects coming soon — stay tuned!*
 
@@ -56,11 +56,4 @@ Whether it's spotting trends, automating reports, or visualizing KPIs—I'm pass
 
 ---
 
-### 📊 GitHub Stats (Optional)
 
-```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanarabia24&show_icons=true&theme=gradient)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanarabia24&layout=compact&theme=gradient)
-yaml
-Copy
-Edit
