@@ -1,3 +1,4 @@
+![Banner](https://raw.githubusercontent.com/Sanarabia24/Sanarabia24/main/Github Profile Banner.png)
 # 👋 Hi, I'm Sana!
 
 🎯 **Data Analyst** | 🧾 Ex-Auditor | 📊 Insight Seeker  
